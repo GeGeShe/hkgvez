@@ -1,5 +1,7 @@
+body {
+     margin: 0;
+}
+
 .col-sm-3 {
     position:fixed;
-    top:30px;
-    right:5px;
 }
