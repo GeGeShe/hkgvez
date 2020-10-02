@@ -16,5 +16,11 @@
         "time": "2020-09-29",
         "description": "手上没几把刷子怎么当得了黄毛嘛！",
         "file": "posts/nonsense002.md"
+    },
+    {
+        "title": "C#释放zip压缩的内嵌资源文件到指定目录",
+        "time": "2020-10-02",
+        "description": "很基础也很常用，记录一下",
+        "file": "posts/csharp001.md"
     }
 ]
