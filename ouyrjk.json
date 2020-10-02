@@ -22,5 +22,11 @@
         "time": "2020-10-02",
         "description": "初衷是给存档位置难找的游戏写存档替换工具",
         "file": "posts/csharp001.md"
+    },
+    {
+        "title": "C#操作注册表",
+        "time": "2020-10-02",
+        "description": "一个鄙人常用的注册表操作类，要求.Net Framework版本≥3.5",
+        "file": "posts/csharp002.md"
     }
 ]
