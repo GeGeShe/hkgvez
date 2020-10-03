@@ -36,7 +36,7 @@
         "file": "posts/csharp003.md"
     },
     {
-        "title": "C#文件、字节数组、十六进制字符串的互转",
+        "title": "C#文件 字节数组 十六进制字符串 互转",
         "time": "2020-10-04",
         "description": "在编写某序列号认证破解工具时碰到了这个奇葩需求，先将exe转为hex string……",
         "file": "posts/csharp004.md"
