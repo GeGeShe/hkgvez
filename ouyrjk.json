@@ -28,5 +28,11 @@
         "time": "2020-10-02",
         "description": "一个鄙人常用的注册表操作类，要求.Net Framework版本≥3.5",
         "file": "posts/csharp002.md"
+    },
+    {
+        "title": "C#向wasabi对象存储请求预签名链接",
+        "time": "2020-10-03",
+        "description": "用wasabi分发大文件成本超低，给用户提供pre-signed url防盗链",
+        "file": "posts/csharp003.md"
     }
 ]
