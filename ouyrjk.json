@@ -6,12 +6,6 @@
         "file": "posts/kirikiri001.md"
     },
     {
-        "title": "从汉服出发谈鄙人对泛二次元文化的偏见",
-        "time": "2020-09-21",
-        "description": "如果只是为了吸睛，为什么不去做个五颜六色的烟花烫呢？",
-        "file": "posts/nonsense001.md"
-    },
-    {
         "title": "浅谈黄毛的几大杀器",
         "time": "2020-09-29",
         "description": "手上没几把刷子怎么当得了黄毛嘛！",
@@ -40,5 +34,11 @@
         "time": "2020-10-04",
         "description": "在编写某序列号认证破解工具时碰到了这个奇葩需求，先将exe转为hex string……",
         "file": "posts/csharp004.md"
+    },
+    {
+        "title": "百度网盘秒传技术入门",
+        "time": "2020-10-09",
+        "description": "介绍相关基础知识及秒传技术的用法，告别炸档补链",
+        "file": "posts/useless001.md"
     }
 ]
