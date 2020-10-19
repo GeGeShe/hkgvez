@@ -40,5 +40,11 @@
         "time": "2020-10-09",
         "description": "介绍相关基础知识及秒传技术的用法，告别炸档补链",
         "file": "posts/useless001.md"
+    },
+    {
+        "title": "C#用原生类解析Json",
+        "time": "2020-10-19",
+        "description": "寥寥数十行代码就能解决问题，没必要引用“巨大”的第三方库",
+        "file": "posts/csharp005.md"
     }
 ]
