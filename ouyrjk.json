@@ -44,7 +44,7 @@
     {
         "title": "C#用原生类解析Json",
         "time": "2020-10-19",
-        "description": "寥寥数十行代码就能解决问题，没必要引用“巨大”的第三方库",
+        "description": "一行代码就能解决问题，没必要引用“巨大”的第三方库",
         "file": "posts/csharp005.md"
     },
     {
@@ -52,5 +52,11 @@
         "time": "2020-11-10",
         "description": "简要介绍如何构造图片外链，分享文件以及解析mp3外链",
         "file": "posts/useless002.md"
+    },
+    {
+        "title": "用ESP定律脱UPX壳",
+        "time": "2020-11-23",
+        "description": "解析ESP定律的原理，记录用ESP定律脱UPX壳的过程",
+        "file": "posts/reverse001.md"
     }
 ]
