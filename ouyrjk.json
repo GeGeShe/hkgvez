@@ -58,5 +58,11 @@
         "time": "2020-11-23",
         "description": "解析ESP定律的原理，记录用ESP定律脱UPX壳的过程",
         "file": "posts/reverse001.md"
+    },
+    {
+        "title": "C#字节数组 十六进制字符串 互转",
+        "time": "2021-01-23",
+        "description": "网上搜来的答案都没有直击本质，直接从微软的源码里抄了一段",
+        "file": "posts/csharp006.md"
     }
 ]
