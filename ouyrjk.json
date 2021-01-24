@@ -64,5 +64,11 @@
         "time": "2021-01-23",
         "description": "网上搜来的答案都没有直击本质，直接从微软的源码里抄了一段",
         "file": "posts/csharp006.md"
+    },
+    {
+        "title": "C#List元素去重",
+        "time": "2021-01-23",
+        "description": "非常实用，摘自https://github.com/ldqk/Masuit.Tools",
+        "file": "posts/csharp007.md"
     }
 ]
