@@ -70,5 +70,11 @@
         "time": "2021-01-23",
         "description": "非常实用，摘自https://github.com/ldqk/Masuit.Tools",
         "file": "posts/csharp007.md"
+    },
+    {
+        "title": "ANIM社汉化工具及使用说明",
+        "time": "2021-03-09",
+        "description": "ANIM是我个人比较喜欢的社，汉化工具早就备好了，奈何实在是没有时间精力投入汉化",
+        "file": "posts/useless003.md"
     }
 ]
